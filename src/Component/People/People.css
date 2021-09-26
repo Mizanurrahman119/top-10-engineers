@@ -1,0 +1,23 @@
+.img{
+    width: 90px;
+    height: 90px;
+    margin-left: 80px;
+}
+.profile{
+    padding: 10px;
+    background-color: rgb(197, 226, 217);
+}
+
+.added-cart{
+    padding: 3px 15px;
+    background-color: gold;
+    border-radius: 3px;
+    border: 1px solid white;
+    margin-left: 30%;
+}
+
+.facebook-icon{
+    font-size: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
